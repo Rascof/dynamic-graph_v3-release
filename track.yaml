@@ -18,7 +18,7 @@ tracks:
     name: upstream
     patches: null
     release_inc: '2'
-    release_repo_url: git@github.com:Rascof/dynamic-graph-1.git
+    release_repo_url: git@github.com:Rascof/dynamic-graph_v3-release.git
     release_tag: v:{version}
     ros_distro: melodic
     vcs_type: git
