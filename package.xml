@@ -1,0 +1,18 @@
+<package format="2">
+  <name>dynamic-graph</name>
+  <version>4.1.1</version>
+  <description>
+    Dynamic graph library
+  </description>
+  <maintainer email="ostasse@laas.fr">Olivier Stasse</maintainer>
+  <license>BSD</license>
+
+  <url>http://github.com/stack-of-tasks/dynamic-graph</url>
+  <author>Nicolas Mansard</author>
+  <author>Olivier Stasse</author>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <doc_depend>doxygen</doc_depend>
+
+</package>
